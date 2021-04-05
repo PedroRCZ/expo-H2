@@ -1,0 +1,39 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+
+/*
+  Nota: si no usas el navbar, el siguiente código
+  no es necesario
+*/
+
+body {
+    padding-top: 70px;
+}
+
+.te {
+    font-family: 'DotGothic16', sans-serif !important;
+    font-size: medium;
+}
+
+.tex {
+    font-size: medium;
+}
+
+.tex div {
+    margin: 10px 0 10px 0;
+}
+
+.bac {
+    background-color: rgb(179, 219, 206);
+    width: 650px;
+    height: 150px;
+    border-radius: 20px;
+    padding: 30px;
+}
